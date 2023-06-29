@@ -36,6 +36,7 @@ public class LogginLab {
     }
 
 
+
     public boolean thresholdReached(Integer limit){
         if (this.threshold < limit){
             return true;
